@@ -32,6 +32,6 @@ Sou uma pessoa apaixonada por computação desde criança e tenho o desejo de co
 
 ## Onde me encontrar 🧑
 <div>
-  <a href="https://www.linkedin.com/in/jos%C3%A9-vine-39684a269/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/jos%C3%A9-vine-39684a269/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/josevineunes"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
