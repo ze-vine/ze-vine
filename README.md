@@ -1,16 +1,37 @@
-## Hi there 👋
+## Prazer, eu me chamo José Vine 👋
+Sou uma pessoa apaixonada por computação desde criança e tenho o desejo de construir uma carreira como desenvolvedor de software. Tenho formação como Técnico em Informática pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (IFRN), no qual eu me formei em 2025. Foi por meio dessa instituição que eu tive o meu primeiro contato com programação e desde então se tornou para mim não só uma meta de carreira como também estilo de vida. Estou para cursar Tecnologia da Informação pela Universidade Federal do Rio Grande do Norte (UFRN) ou Análise e Desenvolvimento de Sistemas pelo IFRN. Pretendo inicialmente atuar como desenvolver front-end e migrar para o desenvolvimento back-end.
 
-<!--
-**ze-vine/ze-vine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tecnologias que eu domino 👨‍💻
+<div>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+</div>
 
-Here are some ideas to get you started:
+## Tecnologias que estou aprendendo 💻
+<div>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Estatísticas 📈
+
+<p align="left">
+  <a href="https://github.com/ze-vine">
+    <img src="https://github-readme-stats.vercel.app/api?username=ze-vine&show_icons=true&locale=pt-br&theme=tokyonight" alt="Estatísticas do GitHub" height="195">
+  </a>
+  <a href="https://github.com/ze-vine">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ze-vine&locale=pt-br&theme=tokyonight" alt="Linguagens mais usadas" height="195">
+  </a>
+</p>
+
+## Onde me encontrar 🧑
+<div>
+  <a href="https://www.linkedin.com/in/jos%C3%A9-vine-39684a269/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/josevineunes"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</div>
