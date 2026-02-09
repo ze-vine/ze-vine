@@ -19,17 +19,6 @@ Sou uma pessoa apaixonada por computação desde criança e tenho o desejo de co
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 </div>
 
-## Estatísticas 📈
-
-<p align="left">
-  <a href="https://github.com/ze-vine">
-    <img src="https://github-readme-stats.vercel.app/api?username=ze-vine&show_icons=true&locale=pt-br&theme=tokyonight" alt="Estatísticas do GitHub" height="195">
-  </a>
-  <a href="https://github.com/ze-vine">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ze-vine&locale=pt-br&theme=tokyonight" alt="Linguagens mais usadas" height="195">
-  </a>
-</p>
-
 ## Onde me encontrar 🧑
 <div>
   <a href="https://www.linkedin.com/in/jos%C3%A9-vine-39684a269/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
