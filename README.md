@@ -1,5 +1,5 @@
 ## Prazer, eu me chamo José Vine 👋
-Sou uma pessoa apaixonada por computação desde criança e tenho o desejo de construir uma carreira como desenvolvedor de software. Tenho formação como Técnico em Informática pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (IFRN), no qual eu me formei em 2025. Foi por meio dessa instituição que eu tive o meu primeiro contato com a programação e desde então se tornou para mim não só uma meta de carreira como também estilo de vida. Estou para ingressar na graduação em Análise e Desenvolvimento de Sistemas também pelo IFRN. Meu objetivo principal é trabalhar com desenvolvimento full-stack.
+Sou uma pessoa apaixonada por computação desde criança e tenho o desejo de construir minha carreira como desenvolvedor de software. Tenho formação como Técnico em Informática pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (IFRN), no qual eu me formei em 2025. Foi por meio dessa instituição que eu tive o meu primeiro contato com a programação e desde então se tornou para mim não só uma meta de carreira como também estilo de vida. Atualmente sou graduando em Análise e Desenvolvimento de Sistemas também pelo IFRN. Meu objetivo principal é trabalhar com desenvolvimento full-stack.
 
 ## Tecnologias que eu domino 👨‍💻
 <div>
